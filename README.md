@@ -86,10 +86,10 @@ Fake-News-Detection-System/
 ## 📊 Example Screenshots  
 
 ### Home Page  
-![Home Page](Images/Home)
+![Home Page](Images/Home.png)
 
 ### Fake News Prediction  
-![Prediction](Images/FakeHome)
+![Prediction](Images/FakeHome.png)
 
 ---
 
