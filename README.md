@@ -86,10 +86,10 @@ Fake-News-Detection-System/
 ## 📊 Example Screenshots  
 
 ### Home Page  
-![Home Page](https://via.placeholder.com/600x300?text=Screenshot+Home+Page)
+![Home Page](Images/Home)
 
 ### Fake News Prediction  
-![Prediction](https://via.placeholder.com/600x300?text=Prediction+Example)
+![Prediction](Images/FakeHome)
 
 ---
 
